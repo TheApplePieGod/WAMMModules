@@ -1,0 +1,12 @@
+{
+    "name": "wamm-markdown",
+    "description": "A markdown renderer wrapper",
+    "requirements": [
+        "Make sure to include the provided CSS file (import 'wamm-markdown/styles.css')"
+    ],
+    "sqlSupport": [
+        "none"
+    ],
+    "uuid": "13a4520e-e9e6-4758-816b-4dfa09825ac8",
+    "textInjections": []
+}

@@ -1,0 +1,12 @@
+{
+    "name": "wamm-snackbar",
+    "description": "A wrapper for the material-ui snackbar using redux",
+    "requirements": [
+        "A redux implementation"
+    ],
+    "sqlSupport": [
+        "none"
+    ],
+    "uuid": "1b66f586-85b5-4718-ae25-987ed5c06ef6",
+    "textInjections": []
+}
